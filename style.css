@@ -1,0 +1,30 @@
+html {
+    background-color: #00539f;
+    font-family:"Emilys Candy", Geneva, Tahoma, sans-serif
+}
+body {
+    background-color: #FF9500;
+    width: 600px;
+    margin: 0 auto;
+}
+p, li {
+    font-size: 24px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-style: italic;
+}
+p.bold {
+    text-decoration: underline;
+}
+#subjectintro {
+    color: red;
+}
