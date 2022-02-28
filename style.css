@@ -1,14 +1,17 @@
 html {
-    background-color: #00539f;
+    background-color: #e08840;
     font-family:"Emilys Candy", Geneva, Tahoma, sans-serif
 }
 body {
-    background-color: #FF9500;
+    background-color: #f8b557;
     width: 600px;
     margin: 0 auto;
+    border: 5 px solid black; 
+    padding: 0 20px 20px 20px
+
 }
 p, li {
-    font-size: 24px;
+    font-size: 1em;
     line-height: 1.5;
     letter-spacing: 1px;
 }
@@ -27,4 +30,10 @@ p.bold {
 }
 #subjectintro {
     color: red;
+}
+img {
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
 }
