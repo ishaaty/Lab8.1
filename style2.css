@@ -1,0 +1,55 @@
+html {
+    background-color: #f38b36;
+    font-family: 'Emilys Candy', cursive;
+    color:white; 
+}
+body {
+    background-color: #402561;
+    width:900px;
+    margin: 5 auto;
+    border: 5 px solid black; 
+    padding: 2px 2px 2px 2px
+}
+p {
+    /* font-family: 'arvo'; */
+    font-size: 1.5em;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+ol{
+    font-family: 'dosis';
+}
+li { 
+    color: white; 
+    font-size: 1em;
+    line-height: 2.5;
+    letter-spacing: 1px;
+}
+h1 {
+    color: rgb(238, 89, 56) ; 
+    font-size: 55px;
+    text-align: center;
+}
+h3 {
+    color: rgb(129, 78, 233) ; 
+    font-size: 30px;
+    text-align: center;
+}
+li.bold {
+    font-style: italic;
+    font-weight: bold
+}
+li.underline {
+    text-decoration: underline;
+}
+#orange {
+    color: rgb(255, 104, 70);
+    font-weight: bold; 
+}
+img {
+    display: block;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
