@@ -10,20 +10,24 @@ body {
     padding: 5px 5px 10px 10px
 }
 p {
-    font-size: 1.5em;
+    /* font-family: 'arvo'; */
+    font-size: 2em;
     line-height: 2;
     letter-spacing: 1px;
     text-align: center;
 }
-
-li {
-    font-size: 1em;
+ol{
+    font-family: 'dosis';
+}
+li { 
+    font-size: 2em;
     line-height: 2.5;
     letter-spacing: 1px;
+    color: rgb(89, 14, 14); 
 }
-
 h1 {
-    color: rgb(80, 86, 242) ; 
+    
+    color: rgb(12, 20, 245) ; 
     font-size: 55px;
     text-align: center;
 }
@@ -32,21 +36,21 @@ h3 {
     font-size: 30px;
     text-align: center;
 }
-.bold {
-    font-weight: bold;
-}
 li.bold {
     font-style: italic;
+    font-weight: bold
 }
-p.bold {
+li.underline {
     text-decoration: underline;
 }
-#subjectintro {
+#red {
     color: red;
+    font-weight: bold; 
 }
 img {
     display: block;
-    width: 70%;
+    width: 60%;
     height: auto;
     margin: 0 auto;
 }
+
