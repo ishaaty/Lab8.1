@@ -1,23 +1,35 @@
 html {
-    background-color: #e08840;
+    background-color: #eba368;
     font-family: 'Emilys Candy', cursive;
-    
 }
 body {
-    background-color: #f8b557;
-    width: 600px;
+    background-color: #f5c071;
+    width:900px;
     margin: 0 auto;
     border: 5 px solid black; 
-    padding: 0 20px 20px 20px
-
+    padding: 5px 5px 10px 10px
 }
-p, li {
+p {
+    font-size: 1.5em;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+li {
     font-size: 1em;
-    line-height: 1.5;
+    line-height: 2.5;
     letter-spacing: 1px;
 }
+
 h1 {
-    font-size: 60px;
+    color: rgb(80, 86, 242) ; 
+    font-size: 55px;
+    text-align: center;
+}
+h3 {
+    color: rgb(129, 78, 233) ; 
+    font-size: 30px;
     text-align: center;
 }
 .bold {
